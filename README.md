@@ -1,9 +1,8 @@
 # Favorite_Animals
 Write please your favorite animal
 
-##Lynx 
-
-Alex - Cats
+## OLga - Lynx 
+## Alex - Cats
 ### Olena - dogs
 ### Nat - sea otter 🦦
 ### Marc - Fox
