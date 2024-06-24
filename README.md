@@ -6,3 +6,4 @@ Write please your favorite animal
 ### Olena - dogs
 ### Nat - sea otter 🦦
 ### Marc - Fox
+## Mitali - Dog
